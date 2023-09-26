@@ -6,8 +6,8 @@
 醫院的ICU病房，根據地理環境劃分為10個區域。透過天線接收到的tag從而判斷器材位列哪一區域。
 
 ## DB 架構
-![image]()
-
+![image](https://github.com/jack830503/Indoor_position_DB/blob/main/DB%E6%9E%B6%E6%A7%8B%26Tag%E6%B8%85%E5%96%AE/db.jpg)
+<br><br>
 - object : 器材資訊
 - tag : 射頻標籤
 - antenna : 天線資訊
